@@ -1,2 +1,3 @@
 ls -ltr
-df -kh .
+df -kh
+ls
